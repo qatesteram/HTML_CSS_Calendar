@@ -1,4 +1,3 @@
-# HTML_CSS_Calendar
 # HTML & CSS Calendar Project
 A beautiful calendar coded in HTML and CSS
 
